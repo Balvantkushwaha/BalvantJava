@@ -1,3 +1,5 @@
+package BalvantJava.JavaPracticeCode;
+
 import java.util.Scanner;
 
 class balvant {

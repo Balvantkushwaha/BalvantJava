@@ -1,4 +1,4 @@
-package apnacollege;
+package BalvantJava.ApnaCollegePraticeJava;
 
 import java.util.Scanner;
 
