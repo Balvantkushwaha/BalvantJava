@@ -1,3 +1,5 @@
+package JavaPracticeCode;
+
 import java.util.Scanner;
 
 public class praticepattern {
