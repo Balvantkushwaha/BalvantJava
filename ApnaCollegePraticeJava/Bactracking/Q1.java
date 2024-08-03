@@ -1,4 +1,4 @@
-package Bactracking;
+package ApnaCollegePraticeJava.Bactracking;
 
 public class Q1 {
     public static void printPermutation(String str, int idx, String Permutation) {

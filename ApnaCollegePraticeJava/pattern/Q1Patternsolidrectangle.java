@@ -1,4 +1,4 @@
-package apnacollege.pattern;
+package ApnaCollegePraticeJava.pattern;
 
 import java.util.Scanner;
 
